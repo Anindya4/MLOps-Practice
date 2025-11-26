@@ -1,0 +1,12 @@
+mlflow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ipykernel
+keras
+tensorflow
+dvc
+# torch
+# torchvision
