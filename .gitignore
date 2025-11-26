@@ -2,3 +2,6 @@ udemy_mlops
 **mlruns
 **mlartifacts
 .vscode
+**.git
+**.dvc
+**venv
